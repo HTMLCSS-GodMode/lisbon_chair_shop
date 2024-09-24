@@ -2,6 +2,10 @@
 
 ![ezgif com-optimize(2)](https://github.com/user-attachments/assets/04b1cf8e-e67c-4518-950a-b42d026efea1)
 
+## Live Demo
+
+**check out the site on :** https://htmlcss-godmode.github.io/lisbon_chair_shop/
+
 ## Overview
 
 **Lisbon Chair Shop** is a clean, minimalistic web app that showcases a variety of high-quality chairs available for purchase. Built using **pure HTML and CSS**, this project emphasizes user-friendly design principles while adhering to modern web design standards. The goal is to provide an intuitive, aesthetically pleasing shopping experience that highlights the craftsmanship and style of the chairs available.
@@ -81,5 +85,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- **GitHub**: [Your GitHub Username](https://github.com/Anonav0)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/swarnavo-khanra)
+- **GitHub**: [Anonav0](https://github.com/Anonav0)
+- **LinkedIn**: [Swarnavo Khanra](https://linkedin.com/in/swarnavo-khanra)
