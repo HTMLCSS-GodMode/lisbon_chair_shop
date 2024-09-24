@@ -1,5 +1,7 @@
 # Lisbon Chair Shop
 
+![ezgif com-optimize(2)](https://github.com/user-attachments/assets/04b1cf8e-e67c-4518-950a-b42d026efea1)
+
 ## Overview
 
 **Lisbon Chair Shop** is a clean, minimalistic web app that showcases a variety of high-quality chairs available for purchase. Built using **pure HTML and CSS**, this project emphasizes user-friendly design principles while adhering to modern web design standards. The goal is to provide an intuitive, aesthetically pleasing shopping experience that highlights the craftsmanship and style of the chairs available.
